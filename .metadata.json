@@ -1,5 +1,9 @@
 [
   {
+    "package": "finbipartite",
+    "oncran": true
+  },
+  {
     "package": "fingraph",
     "oncran": true
   }
