@@ -1,10 +1,10 @@
 [
   {
-    "package": "fingraph",
+    "package": "finbipartite",
     "oncran": true
   },
   {
-    "package": "finbipartite",
+    "package": "fingraph",
     "oncran": true
   }
 ]
