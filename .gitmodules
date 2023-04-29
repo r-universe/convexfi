@@ -13,3 +13,8 @@
 	url = https://github.com/convexfi/fingraph
 	shallow = true
 	registered = true
+[submodule "fitHeavyTail"]
+	path = fitHeavyTail
+	url = https://github.com/convexfi/fitheavytail
+	shallow = true
+	registered = true
