@@ -18,3 +18,8 @@
 	url = https://github.com/convexfi/fitheavytail
 	shallow = true
 	registered = true
+[submodule "intradayModel"]
+	path = intradayModel
+	url = https://github.com/convexfi/intradaymodel
+	shallow = true
+	registered = true
