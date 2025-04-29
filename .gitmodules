@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "finbipartite"]
-	path = finbipartite
-	url = https://github.com/convexfi/bipartite
-[submodule "fingraph"]
-	path = fingraph
-	url = https://github.com/convexfi/fingraph
 [submodule "fitHeavyTail"]
 	path = fitHeavyTail
 	url = https://github.com/convexfi/fitheavytail
